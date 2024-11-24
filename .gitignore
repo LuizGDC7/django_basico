@@ -1,1 +1,4 @@
 anotacoes.txt
+venv
+venv/
+db.sqlite3
